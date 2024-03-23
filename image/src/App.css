@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body  {
+  padding: 16px;
+}
+.id {
+display: flex;
+gap: 15px;
+}
+
+
+.user{
+  border: 1px solid;
+  margin: 18px;
+  flex: 1;
+  padding: 10px;
+}
